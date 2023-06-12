@@ -1,7 +1,8 @@
-👋 Hi, I’m @niorad
-👀 I’m interested in UI-Dev, Game-Dev, Laptop-Stickers (devlids.com), Guitar & Singing
-🌱 I’m currently working on a game-prototype with three.js
-📫 niorad.com
+# Hi, I’m @niorad
+
+- 👀 Interested in UI-Dev, Game-Dev, Laptop-Stickers (devlids.com), Guitar & Singing
+- 🌱 Currently working on a game-prototype with three.js
+- 📫 For all projects and socials: niorad.com
 
 My active repos are usually private.
 
