@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niorad
-- 👀 I’m interested in UI-Dev, Game-Dev, Laptop-Stickers (devlids.com), Guitar
-- 🌱 I’m currently learning Rust, Pico-8
+- 👀 I’m interested in UI-Dev, Game-Dev, Laptop-Stickers (devlids.com), Guitar & Singing
+- 🌱 I’m currently working on a game-prototype with three.js
 - 📫 niorad.com
 
 <!---
